@@ -18,4 +18,4 @@ Full-stack developer with experience in C#, Angular, .NET, REST APIs, and Unreal
 - **[Store Web Application](/projects/store-app.md)**  
   E-commerce API with user accounts, orders, cart.
 
-More details in each project page.
+More details in each project page. More projects will be added in the future

@@ -1,6 +1,6 @@
 # Smoke App - Gamer Social Platform (Revature Project, 2021)
 
-[GitHub Repo](https://github.com/08162021-dotnet-uta/P2_Group3)
+[Team GitHub Repo](https://github.com/08162021-dotnet-uta/P2_Group3)
 
 ## Overview
 A social platform for gamers integrating the RAWG API to display game data, enabling users to discuss games, post comments, and interact in a forum-like environment. Focused on user authentication, content creation, and API consumption.
