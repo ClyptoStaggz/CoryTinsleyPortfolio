@@ -2,7 +2,7 @@
 
 Full-stack developer with experience in C#, Angular, .NET, REST APIs, and Unreal Engine. Transitioning from military/volunteer service to game design and software engineering.
 
-[View Carrd Portfolio (Quick Overview)](https://your-carrd-url.carrd.co)  
+[View Carrd Portfolio (Quick Overview)](https://corytinsley.carrd.co)  
 [LinkedIn](https://linkedin.com/in/cory-tinsley) | Email: cwallace.tinsley@gmail.com
 
 ## Skills

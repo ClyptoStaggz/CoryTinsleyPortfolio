@@ -1,6 +1,6 @@
 # Store Web Application - E-Commerce API (Revature Project, 2021)
 
-[GitHub Repo](github.com/08162021-dotnet-uta/CoryTinsley_Project1)
+[GitHub Repo](https://github.com/08162021-dotnet-uta/CoryTinsley_Project1)
 ## Overview
 A basic e-commerce web application with backend API for user accounts, product browsing, cart management, and order processing. Demonstrated full-stack development with user auth and data persistence.
 
