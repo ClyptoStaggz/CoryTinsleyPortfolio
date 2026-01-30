@@ -2,6 +2,7 @@
 
 
 [GitHub Repo](https://github.com/Not-Fight-Club)
+
 ## Overview
 A full-stack gamified web application where users create characters and engage in asynchronous debates, live chat discussions, spectator voting, and rewards earning. Designed as a social platform with competitive elements, deployed to Azure using Docker and Kubernetes for scalability.
 
