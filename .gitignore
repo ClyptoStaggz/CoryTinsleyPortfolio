@@ -1,0 +1,26 @@
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Obsidian cache and local UI state
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/appearance.json
+
+# Only ignore the plugin folder if it's empty
+# (so we keep tracked plugins, but ignore untracked ones)
+# This keeps the folder in Git without noise
+.obsidian/plugins/*/
+!.obsidian/plugins/*/*.js
+!.obsidian/plugins/*/manifest.json
+!.obsidian/plugins/*/main.js
+!.obsidian/plugins/*/styles.css
+!.obsidian/plugins/*/README.md
+
+# Sync conflict junk
+.sync-conflict*
+
+Python/
+pathconfig.json
